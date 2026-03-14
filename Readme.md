@@ -21,3 +21,18 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best sea
 <fake@example.com>
 
 ![The San Juan Mountains are beautiful](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+```html
+<html>
+    <head>
+        <title>
+
+        </title>
+    </head>
+    <body>
+        <h1>
+            hi
+        </h1>
+    </body>
+</html>
+
+```
